@@ -4,4 +4,4 @@
 <p>Chame um amigo para jogar e veja quem consegue mais pontos e quem ganha com menos tenativas<p>
 <br>
   
- <p>vai jogar para ganhar<img src=""><p>![2cb65740cfc8e3e6280e6404b81a956e--funny-smiley-smiley-faces](https://github.com/PauloVictorcss/Jogos-em-C/assets/123316548/1bd04fbb-6b7a-4cc6-9ebd-979d1ff3bb8d)
+ <p>vai jogar para ganhar<img src="2cb65740cfc8e3e6280e6404b81a956e--funny-smiley-smiley-faces"><p>![2cb65740cfc8e3e6280e6404b81a956e--funny-smiley-smiley-faces](https://github.com/PauloVictorcss/Jogos-em-C/assets/123316548/1bd04fbb-6b7a-4cc6-9ebd-979d1ff3bb8d)
